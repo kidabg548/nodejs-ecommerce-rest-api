@@ -18,7 +18,7 @@
 
 ## Description
 
-Your API project is designed to provide a user management system with authentication features. It allows users to register, log in, and perform various actions based on their roles. The project uses MongoDB for data storage and Mongoose for data modeling and validation.
+This API project has been meticulously crafted to deliver a comprehensive E-Commerce management system, complete with robust user authentication capabilities. In addition to empowering users with secure registration and login functionalities, the system extends its prowess to encompass various key management aspects such as product management, order processing, and a fully-fledged shopping cart system. It allows users to register, log in, and perform various actions based on their roles. The project uses MongoDB for data storage and Mongoose for data modeling and validation.
 
 ## Features
 
