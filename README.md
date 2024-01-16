@@ -53,7 +53,7 @@ This API project has been meticulously crafted to deliver a comprehensive E-Comm
    MONGO_URL=your_mongodb_connection_url
    PSS_sec=your_cryptojs_password
    JWT_sec=your_jwt_secret
-   PORT=5000
+   PORT= your own port number
    
 
 2. Replace `your_mongodb_connection_url`, `your_cryptojs_password`, and `your_jwt_secret` with your actual values.
